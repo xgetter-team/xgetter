@@ -2,7 +2,7 @@
 <h2 align="center"> Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Vimeo and more </h2>
 <br/>
 <p align="center">
-  <img src="https://github.com/xgetter-team/xgetter/assets/18238662/f98a33d2-c37b-4bf3-b955-9a3896802a21">
+ <img src="https://github.com/xgetter-team/xgetter/assets/18238662/6cd7c83f-73c8-457c-b01b-6384086c2791">
 
   <p align="center">
     <a href="https://dyoutuber.com/demo.mp4" target="_bank"><b>Video Demo</b></a>
