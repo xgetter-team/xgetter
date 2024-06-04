@@ -23,16 +23,16 @@
 
 You can download on [XGetter](https://github.com/xgetter-team/xgetter/releases/)
 
-- macOS:
-  - Universal:  [XGetter_1.1.5_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/XGetter_1.1.5_universal.dmg) - 65.4 MB
-  - Chip M (aarch): [XGetter_1.1.5_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/XGetter_1.1.5_aarch64.dmg) - 60.5 MB
-  - Chip Intel: [XGetter_1.1.5_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/XGetter_1.1.5_x64.dmg) - 60.6 MB
-- Windows:
-  - exe: [XGetter_1.1.5_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/XGetter_1.1.5_x64-setup.exe) - 53.1 MB 
-    - msi: [XGetter_1.1.5_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/XGetter_1.1.5_x64_en-US.msi) - 65.5 MB
-- Linux:
-  - AppImage: [x-getter_1.1.5_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/x-getter_1.1.5_amd64.AppImage) - 146 MB
-  - deb: [x-getter_1.1.5_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/x-getter_1.1.5_amd64.deb) - 77.8 MB
+- **macOS**:
+  - Universal:  [XGetter_1.1.5_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/XGetter_1.1.5_universal.dmg)(65.4 MB)
+  - Chip M (aarch): [XGetter_1.1.5_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/XGetter_1.1.5_aarch64.dmg)(60.5 MB)
+  - Chip Intel: [XGetter_1.1.5_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/XGetter_1.1.5_x64.dmg)(60.6 MB)
+- **Windows**:
+  - exe: [XGetter_1.1.5_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/XGetter_1.1.5_x64-setup.exe)(53.1 MB)
+    - msi: [XGetter_1.1.5_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/XGetter_1.1.5_x64_en-US.msi)(65.5 MB)
+- **Linux**:
+  - AppImage: [x-getter_1.1.5_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/x-getter_1.1.5_amd64.AppImage)(146 MB)
+  - deb: [x-getter_1.1.5_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/1.1.5/x-getter_1.1.5_amd64.deb)(77.8 MB)
 
 ## Help
 
