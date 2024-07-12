@@ -2,7 +2,7 @@
 <h2 align="center"> Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Vimeo and more </h2>
 <br/>
 <p align="center">
-<img src="https://github.com/xgetter-team/xgetter/assets/18238662/2869f50a-edfb-4bfb-94f4-2fe6dd82769d">
+<img src="https://github.com/user-attachments/assets/426f649b-3aeb-4920-bab7-e21d15352d5d">
 
   <p align="center">
     <a href="https://dyoutuber.com/demo.mp4" target="_bank"><b>Video Demo</b></a>
@@ -21,18 +21,19 @@
 
 ## Download
 
-You can download on [XGetter](https://github.com/xgetter-team/xgetter/releases/)
+
+You can download on [XGetter](https://xgetter.com/)
 
 - **macOS**:
-    - Universal:  [XGetter_1.1.7_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.1.7/XGetter_1.1.7_universal.dmg)(65.4 MB)
-    - Chip M (aarch): [XGetter_1.1.7_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.1.7/XGetter_1.1.7_aarch64.dmg)(60.5 MB)
-    - Chip Intel: [XGetter_1.1.7_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.1.7/XGetter_1.1.7_x64.dmg)(60.6 MB)
+    - Universal:  [XGetter_1.2.0_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/XGetter_1.2.0_universal.dmg)(65.4 MB)
+    - Chip M (aarch): [XGetter_1.2.0_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/XGetter_1.2.0_aarch64.dmg)(60.5 MB)
+    - Chip Intel: [XGetter_1.2.0_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/XGetter_1.2.0_x64.dmg)(60.6 MB)
 - **Windows**:
-    - exe: [XGetter_1.1.7_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/1.1.7/XGetter_1.1.7_x64-setup.exe)(53.1 MB)
-        - msi: [XGetter_1.1.7_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/1.1.7/XGetter_1.1.7_x64_en-US.msi)(65.5 MB)
+    - exe: [XGetter_1.2.0_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/XGetter_1.2.0_x64-setup.exe)(53.1 MB)
+        - msi: [XGetter_1.2.0_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/XGetter_1.2.0_x64_en-US.msi)(65.5 MB)
 - **Linux**:
-    - AppImage: [x-getter_1.1.7_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/1.1.7/x-getter_1.1.7_amd64.AppImage)(146 MB)
-    - deb: [x-getter_1.1.7_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/1.1.7/x-getter_1.1.7_amd64.deb)(77.8 MB)
+    - AppImage: [x-getter_1.2.0_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/x-getter_1.2.0_amd64.AppImage)(146 MB)
+    - deb: [x-getter_1.2.0_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/x-getter_1.2.0_amd64.deb)(77.8 MB)
 
 ## Help
 
