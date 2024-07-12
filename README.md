@@ -2,12 +2,7 @@
 <h2 align="center"> Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Vimeo and more </h2>
 <br/>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/426f649b-3aeb-4920-bab7-e21d15352d5d">
-
-  <p align="center">
-    <a href="https://dyoutuber.com/demo.mp4" target="_bank"><b>Video Demo</b></a>
-  </p>
-
+  <img width="710" alt="Screenshot 2024-07-12 at 13 48 48" src="https://github.com/user-attachments/assets/74b83224-43ec-401f-bc0b-46ea2ce600bb">
 </p>
 
 ## Features
