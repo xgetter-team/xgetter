@@ -2,7 +2,8 @@
 <h2 align="center"> Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Vimeo and more </h2>
 <br/>
 <p align="center">
-  <img width="710" alt="Screenshot 2024-07-12 at 13 48 48" src="https://github.com/user-attachments/assets/74b83224-43ec-401f-bc0b-46ea2ce600bb">
+  <video src="https://github.com/user-attachments/assets/9002189f-91ce-4f7d-a770-9d167127437e" controls poster="https://github.com/user-attachments/assets/74b83224-43ec-401f-bc0b-46ea2ce600bb">
+  </video>
 </p>
 
 ## Features
