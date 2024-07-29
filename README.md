@@ -21,18 +21,25 @@
 You can download on [XGetter](https://xgetter.com/)
 
 - **macOS**:
-    - Universal:  [XGetter_1.2.0_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/XGetter_1.2.0_universal.dmg)(65.4 MB)
-    - Chip M (aarch): [XGetter_1.2.0_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/XGetter_1.2.0_aarch64.dmg)(60.5 MB)
-    - Chip Intel: [XGetter_1.2.0_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/XGetter_1.2.0_x64.dmg)(60.6 MB)
+    - Universal:  [XGetter_1.2.2_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.2.2/XGetter_1.2.2_universal.dmg)(65.4 MB)
+    - Chip M (aarch): [XGetter_1.2.2_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.2.2/XGetter_1.2.2_aarch64.dmg)(60.5 MB)
+    - Chip Intel: [XGetter_1.2.2_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.2.2/XGetter_1.2.2_x64.dmg)(60.6 MB)
 - **Windows**:
-    - exe: [XGetter_1.2.0_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/XGetter_1.2.0_x64-setup.exe)(53.1 MB)
-        - msi: [XGetter_1.2.0_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/XGetter_1.2.0_x64_en-US.msi)(65.5 MB)
+    - exe: [XGetter_1.2.2_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/1.2.2/XGetter_1.2.2_x64-setup.exe)(53.1 MB)
+        - msi: [XGetter_1.2.2_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/1.2.2/XGetter_1.2.2_x64_en-US.msi)(65.5 MB)
 - **Linux**:
-    - AppImage: [x-getter_1.2.0_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/x-getter_1.2.0_amd64.AppImage)(146 MB)
-    - deb: [x-getter_1.2.0_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/1.2.0/x-getter_1.2.0_amd64.deb)(77.8 MB)
+    - AppImage: [x-getter_1.2.2_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/1.2.2/x-getter_1.2.2_amd64.AppImage)(146 MB)
+    - deb: [x-getter_1.2.2_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/1.2.2/x-getter_1.2.2_amd64.deb)(77.8 MB)
 
 ## Help
 
 - If you have any suggestions, requests, or bug reports, please create an issue on GitHub or private email to [XGetter](mailto:admin@xgetter.com)
 
 - If you want to donate to XGetter, please visit [Buy me a coffee](https://buymeacoffee.com/tdcvtt?utm_source=Xgetter_web), your donation will help us improve the quality of the application. Or not, you can also support us by sharing the application with your friends.
+
+## Donate
+
+- If you feel happy with our application. Let's ⤵
+<p align="Center">
+<a href="https://www.buymeacoffee.com/tdcvtt" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
