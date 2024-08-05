@@ -2,7 +2,7 @@
 <h2 align="center"> Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Vimeo and more </h2>
 <br/>
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/9002189f-91ce-4f7d-a770-9d167127437e" controls poster="https://github.com/user-attachments/assets/74b83224-43ec-401f-bc0b-46ea2ce600bb">
+  <video src="https://github.com/user-attachments/assets/58aa9edd-f701-4904-8088-2c97094848e4" controls poster="https://github.com/user-attachments/assets/74b83224-43ec-401f-bc0b-46ea2ce600bb">
   </video>
 </p>
 
@@ -19,6 +19,7 @@
 
 
 You can download on [XGetter](https://xgetter.com/)
+
 
 - **macOS**:
     - Universal:  [XGetter_1.2.3_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.2.3/XGetter_1.2.3_universal.dmg)(65.4 MB)
