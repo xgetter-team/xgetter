@@ -1,4 +1,17 @@
-<h1 align="center"> XGetter </h1>
+<p align="center">
+
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/xgetter-team/xgetter/total)
+![GitHub License](https://img.shields.io/github/license/xgetter-team/xgetter)
+![GitHub Release](https://img.shields.io/github/v/release/xgetter-team/xgetter)
+![GitHub Repo stars](https://img.shields.io/github/stars/xgetter-team/xgetter)
+
+
+
+</p>
+
+<h1 align="center"> XGetter - Media Downloader </h1>
+
+
 <h2 align="center"> Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Youku, QQ, Vimeo and 50+ platforms more </h2>
 <br/>
 <p align="center">
@@ -25,15 +38,15 @@ You can download on [XGetter](https://xgetter.com/)
 
 
 - **macOS**:
-    - Universal:  [XGetter_1.4.7_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.4.7/XGetter_1.4.7_universal.dmg)(65.4 MB)
-    - Chip M (aarch): [XGetter_1.4.7_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.4.7/XGetter_1.4.7_aarch64.dmg)(60.5 MB)
-    - Chip Intel: [XGetter_1.4.7_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.4.7/XGetter_1.4.7_x64.dmg)(60.6 MB)
+    - Universal:  [XGetter_1.4.7_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.4.8/XGetter_1.4.8_universal.dmg)(65.4 MB)
+    - Chip M (aarch): [XGetter_1.4.7_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.4.8/XGetter_1.4.8_aarch64.dmg)(60.5 MB)
+    - Chip Intel: [XGetter_1.4.7_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.4.8/XGetter_1.4.8_x64.dmg)(60.6 MB)
 - **Windows**:
-    - exe: [XGetter_1.4.7_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/1.4.7/XGetter_1.4.7_x64-setup.exe)(53.1 MB)
-    - msi: [XGetter_1.4.7_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/1.4.7/XGetter_1.4.7_x64_en-US.msi)(65.5 MB)
+    - exe: [XGetter_1.4.7_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/1.4.8/XGetter_1.4.8_x64-setup.exe)(53.1 MB)
+    - msi: [XGetter_1.4.7_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/1.4.8/XGetter_1.4.8_x64_en-US.msi)(65.5 MB)
 - **Linux**:
-    - AppImage: [x-getter_1.4.7_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/1.4.7/x-getter_1.4.7_amd64.AppImage)(146 MB)
-    - deb: [x-getter_1.4.7_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/1.4.7/x-getter_1.4.7_amd64.deb)(77.8 MB)
+    - AppImage: [x-getter_1.4.7_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/1.4.8/x-getter_1.4.8_amd64.AppImage)(146 MB)
+    - deb: [x-getter_1.4.7_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/1.4.8/x-getter_1.4.8_amd64.deb)(77.8 MB)
 
 ## Help
 
