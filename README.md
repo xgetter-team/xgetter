@@ -1,9 +1,9 @@
 <p align="center">
 
-  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/xgetter-team/xgetter/total)
-  ![GitHub License](https://img.shields.io/github/license/xgetter-team/xgetter)
-  ![GitHub Release](https://img.shields.io/github/v/release/xgetter-team/xgetter)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/xgetter-team/xgetter)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/xgetter-team/xgetter/total)
+![GitHub License](https://img.shields.io/github/license/xgetter-team/xgetter)
+![GitHub Release](https://img.shields.io/github/v/release/xgetter-team/xgetter)
+![GitHub Repo stars](https://img.shields.io/github/stars/xgetter-team/xgetter)
 
 
 
@@ -38,15 +38,15 @@ You can download on [XGetter](https://xgetter.com/)
 
 
 - **macOS**:
-- Universal:  [XGetter_1.4.9_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.4.9/XGetter_1.4.9_universal.dmg)(65.4 MB)
-- Chip M (aarch): [XGetter_1.4.9_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.4.9/XGetter_1.4.9_aarch64.dmg)(60.5 MB)
-- Chip Intel: [XGetter_1.4.9_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.4.9/XGetter_1.4.9_x64.dmg)(60.6 MB)
+- Universal:  [XGetter_1.5.1_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.5.1/XGetter_1.5.1_universal.dmg)(65.4 MB)
+- Chip M (aarch): [XGetter_1.5.1_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.5.1/XGetter_1.5.1_aarch64.dmg)(60.5 MB)
+- Chip Intel: [XGetter_1.5.1_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.5.1/XGetter_1.5.1_x64.dmg)(60.6 MB)
 - **Windows**:
-- exe: [XGetter_1.4.9_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/1.4.9/XGetter_1.4.9_x64-setup.exe)(53.1 MB)
-- msi: [XGetter_1.4.9_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/1.4.9/XGetter_1.4.9_x64_en-US.msi)(65.5 MB)
+- exe: [XGetter_1.5.1_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/1.5.1/XGetter_1.5.1_x64-setup.exe)(53.1 MB)
+- msi: [XGetter_1.5.1_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/1.5.1/XGetter_1.5.1_x64_en-US.msi)(65.5 MB)
 - **Linux**:
-- AppImage: [x-getter_1.4.9_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/1.4.9/x-getter_1.4.9_amd64.AppImage)(146 MB)
-- deb: [x-getter_1.4.9_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/1.4.9/x-getter_1.4.9_amd64.deb)(77.8 MB)
+- AppImage: [x-getter_1.5.1_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/1.5.1/x-getter_1.5.1_amd64.AppImage)(146 MB)
+- deb: [x-getter_1.5.1_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/1.5.1/x-getter_1.5.1_amd64.deb)(77.8 MB)
 
 ## Help
 
