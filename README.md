@@ -12,7 +12,7 @@
 <h1 align="center"> XGetter - Media Downloader </h1>
 
 
-<h2 align="center"> Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Youku, QQ, Vimeo and 50+ platforms more </h2>
+<h2 align="center"> Download video on Youtube, Facebook, X(Twitter), Instagram, Douyin, Tiktok, Youku, QQ, Vimeo and 50+ platforms more </h2>
 <br/>
 <p align="center">
 <video src="https://github.com/user-attachments/assets/7a6af3db-c7eb-476f-bf34-a68e96e973a4" controls poster="https://github.com/user-attachments/assets/74b83224-43ec-401f-bc0b-46ea2ce600bb">
