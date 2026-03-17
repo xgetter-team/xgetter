@@ -3,6 +3,9 @@
     <img src="https://img.shields.io/github/license/xgetter-team/xgetter" alt="GitHub License"/>
     <img src="https://img.shields.io/github/v/release/xgetter-team/xgetter" alt="GitHub Release"/>
     <img src="https://img.shields.io/github/stars/xgetter-team/xgetter" alt="GitHub Repo stars"/>
+    <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=FFFFFF" alt="MacOs"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows"/>
 </p>
 
 <h1 align="center"> XGetter - Media Downloader </h1>
@@ -34,15 +37,15 @@ You can download on [XGetter](https://xgetter.com/)
 
 
 - **macOS**:
-- Universal:  [XGetter_1.6.3_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.6.3/XGetter_1.6.3_universal.dmg)(65.4 MB)
-- Chip M (aarch): [XGetter_1.6.3_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.6.3/XGetter_1.6.3_aarch64.dmg)(60.5 MB)
-- Chip Intel: [XGetter_1.6.3_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.6.3/XGetter_1.6.3_x64.dmg)(60.6 MB)
+- Universal:  [XGetter_1.6.4_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.6.4/XGetter_1.6.4_universal.dmg)(65.4 MB)
+- Chip M (aarch): [XGetter_1.6.4_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.6.4/XGetter_1.6.4_aarch64.dmg)(60.5 MB)
+- Chip Intel: [XGetter_1.6.4_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/1.6.4/XGetter_1.6.4_x64.dmg)(60.6 MB)
 - **Windows**:
-- exe: [XGetter_1.6.3_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/1.6.3/XGetter_1.6.3_x64-setup.exe)(53.1 MB)
-- msi: [XGetter_1.6.3_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/1.6.3/XGetter_1.6.3_x64_en-US.msi)(65.5 MB)
+- exe: [XGetter_1.6.4_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/1.6.4/XGetter_1.6.4_x64-setup.exe)(53.1 MB)
+- msi: [XGetter_1.6.4_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/1.6.4/XGetter_1.6.4_x64_en-US.msi)(65.5 MB)
 - **Linux**:
-- AppImage: [x-getter_1.6.3_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/1.6.3/x-getter_1.6.3_amd64.AppImage)(146 MB)
-- deb: [x-getter_1.6.3_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/1.6.3/x-getter_1.6.3_amd64.deb)(77.8 MB)
+- AppImage: [x-getter_1.6.4_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/1.6.4/x-getter_1.6.4_amd64.AppImage)(146 MB)
+- deb: [x-getter_1.6.4_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/1.6.4/x-getter_1.6.4_amd64.deb)(77.8 MB)
 
 ## Help
 
