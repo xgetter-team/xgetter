@@ -36,15 +36,15 @@ You can download on [XGetter](https://xgetter.com/)
 
 
 - **macOS**:
-- Universal:  [XGetter_1.7.9_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/v1.7.9/XGetter_1.7.9_universal.dmg)(65.4 MB)
-- Chip M (aarch): [XGetter_1.7.9_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/v1.7.9/XGetter_1.7.9_aarch64.dmg)(60.5 MB)
-- Chip Intel: [XGetter_1.7.9_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/v1.7.9/XGetter_1.7.9_x64.dmg)(60.6 MB)
+- Universal:  [XGetter_1.7.10_universal.dmg](https://github.com/xgetter-team/xgetter/releases/download/v1.7.10/XGetter_1.7.10_universal.dmg)(65.4 MB)
+- Chip M (aarch): [XGetter_1.7.10_aarch64.dmg](https://github.com/xgetter-team/xgetter/releases/download/v1.7.10/XGetter_1.7.10_aarch64.dmg)(60.5 MB)
+- Chip Intel: [XGetter_1.7.10_x64.dmg](https://github.com/xgetter-team/xgetter/releases/download/v1.7.10/XGetter_1.7.10_x64.dmg)(60.6 MB)
 - **Windows**:
-- exe: [XGetter_1.7.9_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/v1.7.9/XGetter_1.7.9_x64-setup.exe)(53.1 MB)
-- msi: [XGetter_1.7.9_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/v1.7.9/XGetter_1.7.9_x64_en-US.msi)(65.5 MB)
+- exe: [XGetter_1.7.10_x64-setup.exe](https://github.com/xgetter-team/xgetter/releases/download/v1.7.10/XGetter_1.7.10_x64-setup.exe)(53.1 MB)
+- msi: [XGetter_1.7.10_x64_en-US.msi](https://github.com/xgetter-team/xgetter/releases/download/v1.7.10/XGetter_1.7.10_x64_en-US.msi)(65.5 MB)
 - **Linux**:
-- AppImage: [x-getter_1.7.9_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/v1.7.9/x-getter_1.7.9_amd64.AppImage)(146 MB)
-- deb: [x-getter_1.7.9_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/v1.7.9/x-getter_1.7.9_amd64.deb)(77.8 MB)
+- AppImage: [x-getter_1.7.10_amd64.AppImage](https://github.com/xgetter-team/xgetter/releases/download/v1.7.10/x-getter_1.7.10_amd64.AppImage)(146 MB)
+- deb: [x-getter_1.7.10_amd64.deb](https://github.com/xgetter-team/xgetter/releases/download/v1.7.10/x-getter_1.7.10_amd64.deb)(77.8 MB)
 
 ## Help
 
@@ -54,7 +54,7 @@ You can download on [XGetter](https://xgetter.com/)
 
 - If you feel happy with our application. Let's ⤵
 <p align="Center">
-    <a href="https://xgetter.com/donate?utm_source=Xgetter_web" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+    <a href='https://ko-fi.com/T8B723DI8O' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
 
